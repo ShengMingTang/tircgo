@@ -1,0 +1,12 @@
+[submodule "src/tircgo_uart"]
+	path = src/tircgo_uart
+	url = https://github.com/BearHsia/tircgo_uart
+[submodule "src/serial"]
+	path = src/serial
+	url = https://github.com/BinLoveYoung/serial
+[submodule "src/tircgo_controller"]
+	path = src/tircgo_controller
+	url = https://github.com/ShengMingTang/tircgo_controller
+[submodule "src/tircgo_msgs"]
+	path = src/tircgo_msgs
+	url = https://github.com/ShengMingTang/tircgo_msgs
