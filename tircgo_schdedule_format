@@ -1,0 +1,8 @@
+setup
+cmd1()
+cmd2()
+cmd3()
+
+loop
+cmd1()
+cmd2()
