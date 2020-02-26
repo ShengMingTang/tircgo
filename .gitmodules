@@ -10,3 +10,6 @@
 [submodule "src/tircgo_msgs"]
 	path = src/tircgo_msgs
 	url = https://github.com/ShengMingTang/tircgo_msgs
+[submodule "src/ros_wifi"]
+	path = src/ros_wifi
+	url = https://github.com/NgChowYong/ros_wifi
